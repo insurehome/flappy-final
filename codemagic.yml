@@ -1,0 +1,16 @@
+workflows:
+  my-workflow:
+    name: Workflow name
+    max_build_duration: 120
+    environment:
+      groups:
+        - ...
+      vars:
+        - ...
+        
+    scripts:
+      - ...
+    artifacts:
+      - ...
+    publishing:
+      - ...

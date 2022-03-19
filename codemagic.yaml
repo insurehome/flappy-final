@@ -1,6 +1,6 @@
 workflows:
   my-workflow:
-  unity-android-release-workflow:
+    unity-android-release-workflow:
 
      name: Unity Android release workflow
     
